@@ -1,0 +1,369 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  18 MAR 2018 12:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"Lab2 Report.tex"
+(./Lab2 Report.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+
+LaTeX Warning: Unused global option(s):
+    [20pt].
+
+(./Lab2 Report.aux)
+\openout1 = `"Lab2 Report.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box28
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+<design.jpg, id=9, 3844.3625pt x 2920.9125pt>
+File: design.jpg Graphic file (type jpg)
+ <use design.jpg>
+Package pdftex.def Info: design.jpg used on input line 19.
+(pdftex.def)             Requested size: 344.98048pt x 199.13643pt.
+
+<Datapath.png, id=10, 1235.817pt x 808.06894pt>
+File: Datapath.png Graphic file (type png)
+ <use Datapath.png>
+Package pdftex.def Info: Datapath.png used on input line 20.
+(pdftex.def)             Requested size: 344.98926pt x 199.16847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--21
+[][]
+ []
+
+[2 <./design.jpg> <./Datapath.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+ [3]
+<RType.png, id=21, 882.79813pt x 196.735pt>
+File: RType.png Graphic file (type png)
+ <use RType.png>
+Package pdftex.def Info: RType.png used on input line 38.
+(pdftex.def)             Requested size: 345.0pt x 76.88542pt.
+
+Overfull \hbox (2.38939pt too wide) in paragraph at lines 42--43
+\OT1/cmr/m/n/10 For R-type, the reg-is-ter file mod-ule pro-vides the two reg-i
+s-ter source operands.The
+ []
+
+<Rtypepath.png, id=22, 768.37062pt x 531.9875pt>
+File: Rtypepath.png Graphic file (type png)
+ <use Rtypepath.png>
+Package pdftex.def Info: Rtypepath.png used on input line 45.
+(pdftex.def)             Requested size: 345.0pt x 238.86453pt.
+
+<RI-type.png, id=23, 739.76375pt x 121.45375pt>
+File: RI-type.png Graphic file (type png)
+ <use RI-type.png>
+Package pdftex.def Info: RI-type.png used on input line 52.
+(pdftex.def)             Requested size: 345.0pt x 56.64218pt.
+
+<SI-type.png, id=24, 599.23875pt x 117.43875pt>
+File: SI-type.png Graphic file (type png)
+ <use SI-type.png>
+Package pdftex.def Info: SI-type.png used on input line 53.
+(pdftex.def)             Requested size: 345.0pt x 67.61455pt.
+ [4 <./RType.png> <./Rtypepath.png>] <RIdatapath.png, id=30, 599.23875pt x 436.
+12938pt>
+File: RIdatapath.png Graphic file (type png)
+
+<use RIdatapath.png>
+Package pdftex.def Info: RIdatapath.png used on input line 60.
+(pdftex.def)             Requested size: 310.49956pt x 170.71532pt.
+ <Load.png, id=31, 1064.97874pt x 161.60374pt>
+File: Load.png Graphic file (type png)
+
+<use Load.png>
+Package pdftex.def Info: Load.png used on input line 67.
+(pdftex.def)             Requested size: 345.0pt x 52.35045pt.
+ [5 <./RI-type.png> <./SI-type.png> <./RIdatapath.png>]
+<LoadDatapath.png, id=38, 771.88374pt x 531.9875pt>
+File: LoadDatapath.png Graphic file (type png)
+ <use LoadDatapath.png>
+Package pdftex.def Info: LoadDatapath.png used on input line 74.
+(pdftex.def)             Requested size: 345.00066pt x 284.53339pt.
+
+<Store.png, id=39, 1037.8775pt x 93.85063pt>
+File: Store.png Graphic file (type png)
+ <use Store.png>
+Package pdftex.def Info: Store.png used on input line 80.
+(pdftex.def)             Requested size: 345.0pt x 31.19705pt.
+ [6 <./Load.png> <./LoadDatapath.png>] <Storedatapath.png, id=45, 734.24312pt x
+ 482.30188pt>
+File: Storedatapath.png Graphic file (type png)
+
+<use Storedatapath.png>
+Package pdftex.def Info: Storedatapath.png used on input line 87.
+(pdftex.def)             Requested size: 345.0pt x 226.62303pt.
+ [7 <./Store.png> <./Storedatapath.png>]
+<Branch.png, id=52, 966.10938pt x 212.29312pt>
+File: Branch.png Graphic file (type png)
+ <use Branch.png>
+Package pdftex.def Info: Branch.png used on input line 95.
+(pdftex.def)             Requested size: 345.0pt x 75.80998pt.
+
+<Branchdatapath.png, id=53, 619.81563pt x 534.49687pt>
+File: Branchdatapath.png Graphic file (type png)
+
+<use Branchdatapath.png>
+Package pdftex.def Info: Branchdatapath.png used on input line 101.
+(pdftex.def)             Requested size: 310.4979pt x 267.75343pt.
+ <Utype.png, id=54, 610.28pt x 111.41624pt>
+File: Utype.png Graphic file (type png)
+
+<use Utype.png>
+Package pdftex.def Info: Utype.png used on input line 108.
+(pdftex.def)             Requested size: 345.0pt x 62.98769pt.
+ [8 <./Branch.png> <./Branchdatapath.png>]
+File: RIdatapath.png Graphic file (type png)
+ <use RIdatapath.png>
+Package pdftex.def Info: RIdatapath.png used on input line 117.
+(pdftex.def)             Requested size: 345.0pt x 251.09853pt.
+
+<Jump.png, id=60, 808.01875pt x 232.36812pt>
+File: Jump.png Graphic file (type png)
+ <use Jump.png>
+Package pdftex.def Info: Jump.png used on input line 124.
+(pdftex.def)             Requested size: 345.0pt x 99.2143pt.
+ [9 <./Utype.png>]
+File: RIdatapath.png Graphic file (type png)
+
+<use RIdatapath.png>
+Package pdftex.def Info: RIdatapath.png used on input line 133.
+(pdftex.def)             Requested size: 310.49956pt x 199.16455pt.
+ <simulation1.png, id=65, 1411.77437pt x 641.89813pt>
+File: simulation1.png Graphic file (type png)
+
+<use simulation1.png>
+Package pdftex.def Info: simulation1.png used on input line 143.
+(pdftex.def)             Requested size: 345.0pt x 156.85994pt.
+ <simulation2.png, id=66, 1408.76312pt x 679.53876pt>
+File: simulation2.png Graphic file (type png)
+
+<use simulation2.png>
+Package pdftex.def Info: simulation2.png used on input line 145.
+(pdftex.def)             Requested size: 345.0pt x 166.41069pt.
+ [10 <./Jump.png>] [11 <./simulation1.png> <./simulation2.png>] <Timing.png, id
+=76, 308.65312pt x 222.8325pt>
+File: Timing.png Graphic file (type png)
+ <use Timing.png>
+Package pdftex.def Info: Timing.png used on input line 156.
+(pdftex.def)             Requested size: 310.4979pt x 224.18181pt.
+
+<CellCount.png, id=77, 312.66812pt x 247.92625pt>
+File: CellCount.png Graphic file (type png)
+ <use CellCount.png>
+Package pdftex.def Info: CellCount.png used on input line 163.
+(pdftex.def)             Requested size: 310.50612pt x 199.16975pt.
+ [12 <./Timing.png>] <Compiletime.png, id=83, 374.39874pt x 166.6225pt>
+File: Compiletime.png Graphic file (type png)
+
+<use Compiletime.png>
+Package pdftex.def Info: Compiletime.png used on input line 170.
+(pdftex.def)             Requested size: 310.51665pt x 199.18326pt.
+ <Area.png, id=84, 297.11pt x 218.8175pt>
+File: Area.png Graphic file (type png)
+ <use Area.png>
+Package pdftex.def Info: Area.png used on input line 177.
+(pdftex.def)             Requested size: 310.51036pt x 199.17097pt.
+
+<Area2.png, id=85, 394.47375pt x 306.14375pt>
+File: Area2.png Graphic file (type png)
+ <use Area2.png>
+Package pdftex.def Info: Area2.png used on input line 178.
+(pdftex.def)             Requested size: 310.49924pt x 199.16858pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--179
+[][]
+ []
+
+[13 <./CellCount.png> <./Compiletime.png>] [14 <./Area.png> <./Area2.png>]
+<Power1.png, id=97, 506.39188pt x 162.6075pt>
+File: Power1.png Graphic file (type png)
+ <use Power1.png>
+Package pdftex.def Info: Power1.png used on input line 186.
+(pdftex.def)             Requested size: 345.0pt x 110.78502pt.
+
+<Powerf.png, id=98, 655.44875pt x 79.29625pt>
+File: Powerf.png Graphic file (type png)
+ <use Powerf.png>
+Package pdftex.def Info: Powerf.png used on input line 188.
+(pdftex.def)             Requested size: 345.0pt x 41.73761pt.
+
+<PowerHier.png, id=99, 673.51625pt x 624.3325pt>
+File: PowerHier.png Graphic file (type png)
+ <use PowerHier.png>
+Package pdftex.def Info: PowerHier.png used on input line 189.
+(pdftex.def)             Requested size: 345.0pt x 319.80576pt.
+ [15 <./Power1.png> <./Powerf.png> <./PowerHier.png>] [16] (./Lab2 Report.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 1695 strings out of 492995
+ 24600 string characters out of 6132704
+ 81598 words of memory out of 5000000
+ 5224 multiletter control sequences out of 15000+600000
+ 7895 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,7n,25p,812b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "Lab2 Report.pdf" (16 pages, 5165508 bytes).
+PDF statistics:
+ 130 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+

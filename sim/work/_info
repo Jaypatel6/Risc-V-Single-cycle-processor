@@ -1,0 +1,436 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/sim
+vadder
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1521401319
+!i10b 1
+!s100 ijVXn`j8gkb?JEem_D[5R0
+IA9?ImDHzNNgdW;I_Zl:732
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 adder_sv_unit
+S1
+R0
+Z4 w1521240236
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder.sv
+L0 3
+Z5 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z6 !s108 1521401318.000000
+Z7 !s107 /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder32b.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/andgate.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RISC_V.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Datapath.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Controller.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RegFile.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/ALUController.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/instructionmemory.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/datamemory.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/mux2.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/imm_Gen.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/flopr.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder.sv|
+Z8 !s90 -quiet|-64|-sv|-f|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/rtl.cfg|
+!i113 0
+Z9 o-quiet -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vadder32b
+R1
+R2
+!i10b 1
+!s100 _bd2`W471i15ClciEH@P_0
+I7nC2Z4ATLbA=Vb=;LQEl]2
+R3
+!s105 adder32b_sv_unit
+S1
+R0
+w1521323912
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder32b.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder32b.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+valu
+R1
+R2
+!i10b 1
+!s100 1moW^jkP]^W=<MaMVDia[1
+IJXQjM=3bDCA2MgDJ[Q7]L2
+R3
+!s105 alu_sv_unit
+S1
+R0
+Z10 w1521396955
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv
+Z11 L0 23
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vALUController
+R1
+R2
+!i10b 1
+!s100 R3gR[3kSi0=^3_5MH0h9n3
+IJjQP17=O6T=ZP];X0DYX:1
+R3
+!s105 ALUController_sv_unit
+S1
+R0
+Z12 w1521330819
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/ALUController.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/ALUController.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@a@l@u@controller
+vandgate
+R1
+R2
+!i10b 1
+!s100 G@8>B1>KQb1lj4RVD>8a=1
+IITY54;Vb[48Yg[z7b49j;1
+R3
+Z13 !s105 andgate_sv_unit
+S1
+R0
+R4
+Z14 8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/andgate.sv
+Z15 F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/andgate.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vController
+R1
+R2
+!i10b 1
+!s100 jGmMkm<B1l^Am1f`4>MPn1
+I;W4CCLiz<z77jz4n4CYT72
+R3
+!s105 Controller_sv_unit
+S1
+R0
+R10
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Controller.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Controller.sv
+Z16 L0 22
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@controller
+vdatamemory
+R1
+R2
+!i10b 1
+!s100 z@_G=><0]m<F<LTB4Sz1O3
+IgQg8f=L6MdWK=ek5TPh@d3
+R3
+!s105 datamemory_sv_unit
+S1
+R0
+R12
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/datamemory.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/datamemory.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vDatapath
+R1
+R2
+!i10b 1
+!s100 fLiRoUY`C^D<[He5OnF3C2
+IA:@9FEBKK<>Q0NXVi=`n<0
+R3
+!s105 Datapath_sv_unit
+S1
+R0
+R10
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Datapath.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Datapath.sv
+R16
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@datapath
+vflopr
+R1
+R2
+!i10b 1
+!s100 B6BS^>`X=WIeQVmG9i5VI0
+IdhX0GU8oO_5Ja[^Za:5U^3
+R3
+!s105 flopr_sv_unit
+S1
+R0
+Z17 w1520028807
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/flopr.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/flopr.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vimm_Gen
+R1
+R2
+!i10b 1
+!s100 GQH07GXYk_jIM>7EBiJ0g3
+I]KY<YhK[82<RZ834IQ@dB2
+R3
+!s105 imm_Gen_sv_unit
+S1
+R0
+R10
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/imm_Gen.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/imm_Gen.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+nimm_@gen
+vinstructionmemory
+R1
+R2
+!i10b 1
+!s100 :BdEkYH7nN0^1PKOzRah[0
+IUAjkM0@PWEakXZUED5Aho2
+R3
+!s105 instructionmemory_sv_unit
+S1
+R0
+R10
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/instructionmemory.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/instructionmemory.sv
+R16
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vmux2
+R1
+R2
+!i10b 1
+!s100 @X6>V^M3YMfab:XdY67SE1
+In@VQK>FTJZ_AYOfkFid?F0
+R3
+!s105 mux2_sv_unit
+S1
+R0
+w1521183839
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/mux2.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/mux2.sv
+R11
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+Xmy_112l_pkg
+R1
+!s110 1521239615
+!i10b 1
+!s100 M8NQzIQXWF:<4lAA7;:Kb3
+I>jcW1^jHM5Y7eF6lSOED60
+V>jcW1^jHM5Y7eF6lSOED60
+S1
+R0
+w1520895001
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/my_112l_pkg.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/my_112l_pkg.sv
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1521239615.000000
+!s107 /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder32b.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/andgate.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RISC_V.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Datapath.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Controller.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RegFile.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/ALUController.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/instructionmemory.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/datamemory.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/mux2.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/imm_Gen.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/flopr.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/my_112l_pkg.sv|
+R8
+!i113 0
+R9
+vorgate
+R1
+!s110 1520021252
+!i10b 1
+!s100 H_JhE<4B>jMRWgQbDDSDX1
+I1?LhRcU1KUL?f1@8U<4gQ1
+R3
+R13
+S1
+R0
+w1520020932
+R14
+R15
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1520021252.000000
+!s107 /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/andgate.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RISC_V.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Datapath.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Controller.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RegFile.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/ALUController.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/instructionmemory.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/datamemory.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/mux2.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/imm_Gen.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/flopr.sv|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder.sv|
+R8
+!i113 0
+R9
+vRegFile
+R1
+R2
+!i10b 1
+!s100 K7e_M^@0VSmLzTMdBAzD51
+Ih>kkR:nWZHn<lMlMO@d2^0
+R3
+!s105 RegFile_sv_unit
+S1
+R0
+w1520896986
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RegFile.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RegFile.sv
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+n@reg@file
+vRISC_V
+R1
+!s110 1520032299
+!i10b 1
+!s100 8@<P:R<BGW[iGd8<15ZRF3
+IWCS7_`W7eaET[TKThl^9L2
+R3
+Z18 !s105 RISC_V_sv_unit
+S1
+R0
+R17
+Z19 8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RISC_V.sv
+Z20 F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RISC_V.sv
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1520032299.000000
+R7
+R8
+!i113 0
+R9
+n@r@i@s@c_@v
+vriscv
+R1
+R2
+!i10b 1
+!s100 `B3OAcHVXI<2@^znmc<G>0
+IYS1?IG^9V;0Af9Ne1dT;C0
+R3
+R18
+S1
+R0
+w1521329081
+R19
+R20
+L0 3
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+vtb_top
+R1
+R2
+!i10b 1
+!s100 =5=UTU2dfHSkc_NZ?Q;c12
+I=hBzC:^Q=i9]nV:GVVW9L1
+R3
+!s105 tb_top_sv_unit
+S1
+R0
+w1521237226
+8/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/verif/tb_top.sv
+F/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/verif/tb_top.sv
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1521401319.000000
+!s107 /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/verif/tb_top.sv|
+!s90 -quiet|-64|-sv|-f|/users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/verif/tb.cfg|-work|work|
+!i113 0
+o-quiet -sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Ttb_top_opt
+!s110 1521401320
+V>9hmlm>FO;X^ocXeZ[?[>2
+04 6 4 work tb_top fast 0
+o-quiet +acc -work work
+ntb_top_opt
+OL;O;10.4c;61

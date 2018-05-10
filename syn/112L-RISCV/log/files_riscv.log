@@ -1,0 +1,103 @@
+analyze -format sverilog {   adder.sv   flopr.sv   imm_Gen.sv   mux2.sv   datamemory.sv   instructionmemory.sv   ALUController.sv   alu.sv   RegFile.sv   Controller.sv   Datapath.sv   RISC_V.sv   andgate.sv   adder32b.sv }
+Running PRESTO HDLC
+Searching for ./adder.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/adder.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/adder.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/adder.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/adder.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder.sv
+Searching for ./flopr.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/flopr.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/flopr.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/flopr.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/flopr.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/flopr.sv
+Searching for ./imm_Gen.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/imm_Gen.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/imm_Gen.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/imm_Gen.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/imm_Gen.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/imm_Gen.sv
+Searching for ./mux2.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/mux2.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/mux2.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/mux2.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/mux2.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/mux2.sv
+Searching for ./datamemory.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/datamemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/datamemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/datamemory.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/datamemory.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/datamemory.sv
+Searching for ./instructionmemory.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/instructionmemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/instructionmemory.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/instructionmemory.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/instructionmemory.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/instructionmemory.sv
+Searching for ./ALUController.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/ALUController.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/ALUController.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/ALUController.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/ALUController.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/ALUController.sv
+Searching for ./alu.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/alu.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/alu.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/alu.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/alu.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv
+Searching for ./RegFile.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RegFile.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RegFile.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RegFile.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RegFile.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RegFile.sv
+Searching for ./Controller.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/Controller.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/Controller.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/Controller.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/Controller.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Controller.sv
+Searching for ./Datapath.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/Datapath.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/Datapath.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/Datapath.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/Datapath.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/Datapath.sv
+Searching for ./RISC_V.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/RISC_V.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/RISC_V.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/RISC_V.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/RISC_V.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RISC_V.sv
+Searching for ./andgate.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/andgate.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/andgate.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/andgate.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/andgate.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/andgate.sv
+Searching for ./adder32b.sv
+Searching for /ecelib/linware/synopsys15/dc/libraries/syn/adder32b.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/adder32b.sv
+Searching for /ecelib/linware/synopsys15/dc/packages/IEEE/adder32b.sv
+Searching for /users/ugrad2/2012/spring/pooriam/libraries/adder32b.sv
+Searching for /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder32b.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/adder.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/flopr.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/imm_Gen.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/mux2.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/datamemory.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/instructionmemory.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/ALUController.sv
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv
+Error:  /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/alu.sv:68: case inequality (!==) is not supported by synthesis. (VER-190)
+Compiling source file /users/ugrad/2016/fall/jjpatel1/EECS112L/Lab2/design/RegFile.sv
+Error:  Cannot recover from previous errors. (VER-518)
+*** Presto compilation terminated with 2 errors. ***
+Loading db file '/users/ugrad2/2012/spring/pooriam/libraries/saed32lvt_tt1p05vn40c.db'
+Loading db file '/users/ugrad2/2012/spring/pooriam/libraries/saed32sram_tt1p05vn40c.db'
+Loading db file '/ecelib/linware/synopsys15/dc/libraries/syn/dw_foundation.sldb'
+0
+0

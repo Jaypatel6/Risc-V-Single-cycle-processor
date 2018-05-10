@@ -1,0 +1,85 @@
+Warning: Design 'riscv' has '2' unresolved references. For more detailed information, use the "link" command. (UID-341)
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : qor
+Design : riscv
+Version: J-2014.09-SP4
+Date   : Sun Mar 18 11:32:53 2018
+****************************************
+
+
+  Timing Path Group 'clk'
+  -----------------------------------
+  Levels of Logic:               5.00
+  Critical Path Length:          0.34
+  Critical Path Slack:           3.65
+  Critical Path Clk Period:      4.00
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:          0.00
+  Total Hold Violation:          0.00
+  No. of Hold Violations:        0.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:          7
+  Hierarchical Port Count:        452
+  Leaf Cell Count:                574
+  Buf/Inv Cell Count:             115
+  Buf Cell Count:                   4
+  Inv Cell Count:                 111
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:       567
+  Sequential Cell Count:            7
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:     1210.233744
+  Noncombinational Area:    49.812225
+  Buf/Inv Area:            152.486401
+  Total Buffer Area:            10.17
+  Total Inverter Area:         142.32
+  Macro/Black Box Area:      0.000000
+  Net Area:                357.455119
+  -----------------------------------
+  Cell Area:              1260.045969
+  Design Area:            1617.501088
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:           708
+  Nets With Violations:             1
+  Max Trans Violations:             1
+  Max Cap Violations:               1
+  -----------------------------------
+
+
+  Hostname: zuma.eecs.uci.edu
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                    2.34
+  Logic Optimization:                  0.32
+  Mapping Optimization:                2.06
+  -----------------------------------------
+  Overall Compile Time:               18.37
+  Overall Compile Wall Clock Time:    99.80
+
+  --------------------------------------------------------------------
+
+  Design  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+
+  Design (Hold)  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+  --------------------------------------------------------------------
+
+
+1
